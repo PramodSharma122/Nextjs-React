@@ -12,9 +12,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        <AppHeader />
         {children}
-        <AppFooter />
         </body>
     </html>
   );
