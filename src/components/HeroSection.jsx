@@ -22,7 +22,7 @@ export default function HeroSection() {
             </div>
 
             <div className="inline-flex justify-between w-80 h-11">
-                <a href="#" className="inline-flex justify-center items-center w-36 h-[100%] text-[#081b29] bg-[#12f7ff] text-base tracking-widest font-semibold rounded-md relative overflow-hidden z-1 border-[#12f7ff] hover:text-[#12f7ff] before:content-[''] before:absolute before:top-[0] before:left-[0] before:bg-[#081b29] before:w-[0] before:h-[100%] before:-z-1 before:transition-[.4s] hover:before:w-[100%]">Download CV</a>
+                <a href="#" className="inline-flex justify-center items-center w-36 h-[100%] text-[#081b29] bg-[#12f7ff] text-base tracking-widest font-semibold rounded-md relative overflow-hidden z-1 border border-[#12f7ff] hover:text-[#12f7ff] hover:bg-[#081b29] hover:border-[#12f7ff]">Download CV</a>
                 <a href="#" className="inline-flex justify-center items-center w-36 h-[100%] text-[#081b29] bg-[#12f7ff] text-base tracking-widest font-semibold rounded-md relative overflow-hidden z-1 border-[#12f7ff] hover:text-[#12f7ff] before:content-[''] before:absolute before:top-[0] before:left-[0] before:bg-[#081b29] before:w-[0] before:h-[100%] before:-z-1 before:transition-[.4s] hover:before:w-[100%]">Hire Me Now!</a>
             </div>
 
